@@ -1,0 +1,11 @@
+Metric,Value
+Training Loss Start,312.1063
+Training Loss End,86.4696
+Training Loss Reduction (%),72.3%
+Validation Loss Start,115.7332
+Validation Loss End,42.9284
+Validation Loss Reduction (%),62.9%
+Best Training Loss,86.4696
+Best Validation Loss,42.6173
+Final Loss Gap,-43.5412
+Total Epochs,30
